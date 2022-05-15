@@ -93,13 +93,13 @@ new OutputStreamMetricsRenderer(System.out).renderMetrics(wordCountMetrics);
 
 A command line interface is provided, which can be run from the project root folder as follows:
 
-```java -jar wordcountcli\target\wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar```
+```java -jar wordcountcli/target/wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar```
 
 #### Example usage against a web hosted text file
 
-```java -jar wordcountcli\target\wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar https://janelwashere.com/files/bible_daily.txt```
+```java -jar wordcountcli/target/wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar https://janelwashere.com/files/bible_daily.txt```
 
 
 #### Example usage against a local text file
 
-```java -jar wordcountcli\target\wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar file:///path/to/file/filename.txt```
+```java -jar wordcountcli/target/wordcount-cli-1.0-SNAPSHOT-jar-with-dependencies.jar file:///path/to/file/filename.txt```
