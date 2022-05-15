@@ -32,7 +32,7 @@ More refinements could be made. For example, the removal of speech marks and oth
 ### Installation Instructions
 
 1. Clone the repository https://github.com/smitchell100/wordcounter.git
-2. Run the following command from the project root folder: `mvn clean package`
+2. Run the following command from the project root folder: `mvn package`
 
 ### Programming API
 
